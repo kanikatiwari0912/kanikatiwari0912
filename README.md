@@ -16,8 +16,6 @@ About me
 
 ---
 
-### 🚀 Currently Exploring: 
-- **Network Security Architecture**
 
 ---
 
